@@ -35,7 +35,7 @@ A detailed explanation of the methodology, experiments, results, and conclusions
 
 The more detailed plots and quantitative results can be found directly in the report:
 
-[Project Report](./Interactions_project.pdf)
+[Project Report](./report.pdf)
 
 ## Main Takeaway
 
